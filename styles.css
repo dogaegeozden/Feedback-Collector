@@ -59,23 +59,3 @@ button[type="submit"]:hover {
 .error {
     color: red;
 }
-
-#InputBox {
-    background-color: #fff;
-    padding: 20px;
-    border-radius: 10px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    margin: 20px;
-    width: 50%;
-    margin-left: auto;
-    margin-right: auto;
-}
-
-#InputBox p {
-    margin-bottom: 10px;
-}
-
-#InputBox strong {
-    font-weight: bold;
-    color: #333;
-}
